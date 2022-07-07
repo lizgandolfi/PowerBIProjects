@@ -1,2 +1,2 @@
 # PowerBIProjects
-Some PowerBI analyses I have conducted
+🔍	Some PowerBI analyses I have conducted
